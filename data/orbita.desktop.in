@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+_Name=Orbita
+_GenericName=Orbita application
+_Comment=Metro
+Exec=orbita
+Icon=orbita
+Terminal=true
+Categories=Programming
+StartupNotify=true

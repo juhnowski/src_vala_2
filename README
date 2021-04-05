@@ -1,0 +1,15 @@
+Поскольку src_vala забился историческим, но все же нужным мусором, создан новый проект src_vala_2
+
+Этот проект можно открыть в gnome builder
+
+TODO:
+1) добавить зависимости:
+        - GStreamer,
+        - gst-plugins,
+        - glib,
+        - gtk,
+2) решить с графикой, что используем: fb, directFB, Wayland, MIR
+
+3) встроить n9m сервер в orbita-app.vala writing_func ()
+
+4) встроить gstreamer конвеер в orbita-app.vala reading_func ()

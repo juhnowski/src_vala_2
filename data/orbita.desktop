@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Orbita
+Name[ru]=Орбита
+GenericName=Orbita application
+GenericName[ru]=Приложение Орбита
+Comment=Metro
+Comment[ru]=Приложение для Новосибирского метро
+Exec=orbita
+Icon=orbita
+Terminal=true
+Categories=Programming
+StartupNotify=true

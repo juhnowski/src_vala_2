@@ -1,0 +1,12 @@
+gstreamer-1.11.2
+	gcc
+	bison libbison-dev
+	flex
+	libglib2.0-0  libglib2.0-dev
+gst-plugins-base-1.11.2
+	libxv-dev
+gst-plugins-bad-1.11.2
+	openh264 - https://github.com/cisco/openh264
+gst-libav-1.11.2
+gst-plugins-good-1.11.2
+libjson-glib-dev 
